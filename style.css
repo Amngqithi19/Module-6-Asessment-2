@@ -162,9 +162,9 @@ body {
   padding: 10px;
   grid-column-start: 1;
   grid-column-end: 3;
-  -moz-transition: -moz-transform 1.4s ease-in;
-  -webkit-transition: -webkit-transform 1.4s ease-in;
-  -o-transition: -o-transform 1.4s ease-in;
+  -moz-transition: -moz-transform 3.4s ease-in;
+  -webkit-transition: -webkit-transform 3.4s ease-in;
+  -o-transition: -o-transform 3.4s ease-in;
 }
 #cars-image img:hover {
   -moz-transform: scale(1.2);
